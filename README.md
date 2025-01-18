@@ -2,8 +2,6 @@
 
 This portfolio is under development 🙂!
 
-<br>
-
 <a href="YOUR_BUY_ME_A_COFFEE_LINK" target="_blank" class="buy-me-a-coffee">
   <span class="coffee-icon">☕</span> Buy me a Coffee 
 </a>
@@ -24,7 +22,6 @@ Here are some ideas to get you started:
 -->
 
 <br>
-```
 <style>
 .buy-me-a-coffee {
   display: inline-block;
@@ -46,4 +43,3 @@ Here are some ideas to get you started:
   margin-right: 5px; 
 }
 </style>
-```
