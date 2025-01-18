@@ -1,14 +1,10 @@
 ## Hi there 👋
 
-I'm Kourosh, a software developer and a data science master's student from Iran.
-
+This portfolio is under development 🙂!
 <br>
-
 <a href="YOUR_BUY_ME_A_COFFEE_LINK" target="_blank" class="buy-me-a-coffee">
   <span class="coffee-icon">☕</span> Buy me a Coffee 
 </a>
-
-<br>
 
 <!--
 **kooroshsajadi/kooroshsajadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<br>
 <style>
   .buy-me-a-coffee {
   display: inline-block;
