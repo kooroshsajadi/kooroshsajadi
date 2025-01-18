@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Kourosh, a software developer and a data science master's student from Iran.
+
 <!--
 **kooroshsajadi/kooroshsajadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
