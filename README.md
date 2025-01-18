@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <br>
+```
 <style>
 .buy-me-a-coffee {
   display: inline-block;
@@ -45,3 +46,4 @@ Here are some ideas to get you started:
   margin-right: 5px; 
 }
 </style>
+```
