@@ -2,6 +2,8 @@
 
 This portfolio is under development 🙂!
 
+Location: 🌍 Earth → ☀️ Solar System → 🌌 Milky Way Galaxy → 🌠 Local Group → 🌀 Virgo Supercluster → 🌐 Laniakea Supercluster → 🌌 Observable Universe
+
 <a href="https://buymeacoffee.com/kooroshsaji" target="_blank" class="buy-me-a-coffee">
   <span class="coffee-icon">☕</span> Buy me a Coffee 
 </a>
