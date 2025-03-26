@@ -1,9 +1,10 @@
-## Hi there 👋
+# Hello, World!👋
+I’m Koorosh Sajadi, a computer engineer with a passion for turning code into solutions and data into insights. Formerly a software track enthusiast, I’ve now shifted gears to the data science track—bridging logic, precision, and a bit of creative problem-solving.
 
-This portfolio is under development 🙂!
+## Current Coordinates
+🌍 Earth → ☀️ Solar System → 🌌 Milky Way Galaxy → 🌠 Local Group → 🌀 Virgo Supercluster → 🌐 Laniakea Supercluster → 🌌 Observable Universe
 
-Location: 🌍 Earth → ☀️ Solar System → 🌌 Milky Way Galaxy → 🌠 Local Group → 🌀 Virgo Supercluster → 🌐 Laniakea Supercluster → 🌌 Observable Universe
-
+## Fuel My Code
 <a href="https://buymeacoffee.com/kooroshsaji" target="_blank" class="buy-me-a-coffee">
   <span class="coffee-icon">☕</span> Buy me a Coffee 
 </a>
