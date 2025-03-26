@@ -1,5 +1,5 @@
 # Hello, World!👋
-I’m Koorosh Sajadi, a computer engineer with a passion for turning code into solutions and data into insights. Formerly a software track enthusiast, I’ve now shifted gears to the data science track—bridging logic, precision, and a bit of creative problem-solving.
+I’m Koorosh Sajadi, a computer engineer dedicated to transforming code into solutions and data into actionable insights. Formerly immersed in the software track, I’m now shifting gears to data science and AI—merging logic, precision, and a spark of creative problem-solving.
 
 ## Current Coordinates
 🌍 Earth → ☀️ Solar System → 🌌 Milky Way Galaxy → 🌠 Local Group → 🌀 Virgo Supercluster → 🌐 Laniakea Supercluster → 🌌 Observable Universe
