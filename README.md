@@ -6,7 +6,7 @@ I’m Kourosh Sajjadi, a computer engineer dedicated to transforming code into s
 
 ## Fuel My Code
 <a href="https://buymeacoffee.com/kooroshsaji" target="_blank" class="buy-me-a-coffee">
-  <span class="coffee-icon">☕</span> Buy me a cup of Coffee 
+  <span class="coffee-icon">☕</span> Buy me a cup of Coffee!
 </a>
 
 <!--
